@@ -12,4 +12,4 @@
 
 ## 토큰 이코노미
 
-<img width="1027" alt="그림1"src="file:///D:/%EC%84%B8%EB%AF%B8%EB%82%98/20190218/%EA%B7%B8%EB%A6%BC1.png">
+<img src="file:///D:/%EC%84%B8%EB%AF%B8%EB%82%98/20190218/%EA%B7%B8%EB%A6%BC1.png"/>
